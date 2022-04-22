@@ -5,4 +5,4 @@ Hi there 👋, I'm Kerem
 - 🤝I'm looking to collaborate on Vue.js
 - 📫 How to reach me: Keremunce@hotmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love a lot orange color
+- ⚡ Fun fact: I love orange color and American Billard
