@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=120" />
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🎱&animation=fadeIn&type=waving&color=gradient&height=120" />
 </p>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=42&center=true&vCenter=true&width=550&height=60&color=FFF&duration=3500&lines=Hi+There!+👋;+I'm+Kerem+Ünce;+Frontend+Developer;+UI%26UX+Designer;" />
@@ -28,8 +28,49 @@ AutoApply AI	Automates job applications with GPT	Next.js, FastAPI, OpenAI API
 Random Movie Suggester	Movie recommendation web app	Next.js, TMDB API-->
 
 <!-- ====================== STATS ====================== -->
-⚡️ GitHub Stats
-<div align="center"> <img width="390" src="https://github-readme-stats.vercel.app/api?username=keremunce&theme=transparent&count_private=true&show_icons=true&rank_icon=github" alt="keremunce stats" /> <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=keremunce&theme=transparent&border_radius=10" alt="keremunce streak" /> <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=keremunce&theme=transparent&layout=donut&langs_count=8&hide=css" alt="keremunce top langs" /> </div>
+### ⚡️ GitHub Stats
+
+<div align="center">
+
+  <!-- Overall Stats -->
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=keremunce&show_icons=true&count_private=true&theme=transparent&rank_icon=github&hide_border=true"
+      media="(prefers-color-scheme: light)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=keremunce&show_icons=true&count_private=true&theme=github_dark&rank_icon=github&hide_border=true"
+      media="(prefers-color-scheme: dark)" />
+    <img width="100%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=keremunce&show_icons=true&count_private=true&theme=transparent&rank_icon=github&hide_border=true" />
+  </picture>
+
+  <br/>
+
+  <!-- Streak Stats -->
+  <picture>
+    <source 
+      srcset="https://streak-stats.demolab.com?user=keremunce&theme=transparent&hide_border=true"
+      media="(prefers-color-scheme: light)" />
+    <source 
+      srcset="https://streak-stats.demolab.com?user=keremunce&theme=github-dark-blue&hide_border=true"
+      media="(prefers-color-scheme: dark)" />
+    <img width="100%" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=keremunce&theme=transparent&hide_border=true" />
+  </picture>
+
+  <br/>
+
+  <!-- Top Languages -->
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=keremunce&layout=compact&theme=transparent&hide_border=true&langs_count=10"
+      media="(prefers-color-scheme: light)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=keremunce&layout=compact&theme=github_dark&hide_border=true&langs_count=10"
+      media="(prefers-color-scheme: dark)" />
+    <img width="100%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keremunce&layout=compact&theme=transparent&hide_border=true&langs_count=10" />
+  </picture>
+
+</div>
+
 <!-- ====================== CONTRIBUTIONS (SNAKE) ====================== -->
 🐍 Contributions
 <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/keremunce/keremunce/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/keremunce/keremunce/output/github-contribution-grid-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/keremunce/keremunce/output/github-contribution-grid-snake.svg" /> </picture> </div>
